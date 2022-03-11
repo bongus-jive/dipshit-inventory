@@ -1,0 +1,19 @@
+[
+	{
+		"op" : "add",
+		"path" : "/paneLayout/pat_dipshit",
+		"value" : {
+			"type" : "image",
+			"file" : "/interface/windowconfig/pat_dipshit.png",
+			"position" : [0, 0],
+			"centered" : true,
+			"scale" : 0.5,
+      "zlevel" : -1
+		}
+	},
+	{
+		"op" : "copy",
+		"from" : "/paneLayout/portrait/position",
+		"path" : "/paneLayout/pat_dipshit/position"
+	}
+]

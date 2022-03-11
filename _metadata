@@ -1,0 +1,11 @@
+{
+  "version" : "1.0",
+  "author" : "pat man",
+  "tags" : "Miscellaneous|User Interface|Character Improvements",
+  "description" : "calls you a dipshit in the inventory\nthat's it\n\nshould work with all inventory mods\n\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar",
+  "name" : "pat_dipshit",
+  "friendlyName" : "dipshit inventory",
+  "priority" : 999999999,
+  "steamContentId" : "2776831945",
+  "link" : "steam://url/CommunityFilePage/2776831945"
+}
